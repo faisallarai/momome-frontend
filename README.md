@@ -11,7 +11,7 @@ yarn dev
 
 ## Web Interface
 
-![alt text](https://github.com/faisallarai/momome-frontend/blob/main/Screenshot.jpg?raw=true)
+![alt text](https://github.com/faisallarai/momome-frontend/blob/main/Screenshot.png?raw=true)
 
 ## Completed Modules
 
